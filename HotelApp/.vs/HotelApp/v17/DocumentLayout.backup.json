@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\controllers\\smjestajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:controllers\\smjestajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\models\\smjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:models\\smjestaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\models\\rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:models\\rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\models\\operater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:models\\operater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\models\\entitet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:models\\entitet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\controllers\\rezervacijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:controllers\\rezervacijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\hotelskabaza.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:hotelskabaza.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|c:\\barbara\\hotelskaaplikacija\\hotelapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85F9FA75-63A8-4F11-B1A5-EF4B56E0B31D}|HotelApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hotelskabaza.sql",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\hotelskabaza.sql",
+              "RelativeDocumentMoniker": "hotelskabaza.sql",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\hotelskabaza.sql",
+              "RelativeToolTip": "hotelskabaza.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-26T11:26:19.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Operater.cs",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Models\\Operater.cs",
+              "RelativeDocumentMoniker": "Models\\Operater.cs",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Models\\Operater.cs",
+              "RelativeToolTip": "Models\\Operater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:06:18.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RezervacijaController.cs",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Controllers\\RezervacijaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RezervacijaController.cs",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Controllers\\RezervacijaController.cs",
+              "RelativeToolTip": "Controllers\\RezervacijaController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:33:57.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rezervacija.cs",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Models\\Rezervacija.cs",
+              "RelativeDocumentMoniker": "Models\\Rezervacija.cs",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Models\\Rezervacija.cs",
+              "RelativeToolTip": "Models\\Rezervacija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:30:39.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T15:10:15.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entitet.cs",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Models\\Entitet.cs",
+              "RelativeDocumentMoniker": "Models\\Entitet.cs",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Models\\Entitet.cs",
+              "RelativeToolTip": "Models\\Entitet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T15:06:12.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmjestajController.cs",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Controllers\\SmjestajController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SmjestajController.cs",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Controllers\\SmjestajController.cs",
+              "RelativeToolTip": "Controllers\\SmjestajController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T14:45:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T14:31:24.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Smjestaj.cs",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Models\\Smjestaj.cs",
+              "RelativeDocumentMoniker": "Models\\Smjestaj.cs",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Models\\Smjestaj.cs",
+              "RelativeToolTip": "Models\\Smjestaj.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T14:29:36.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Data\\HotelContext.cs",
+              "RelativeDocumentMoniker": "Data\\HotelContext.cs",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\Data\\HotelContext.cs",
+              "RelativeToolTip": "Data\\HotelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T14:21:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Barbara\\HotelskaAplikacija\\HotelApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T14:12:14.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "HotelApp.Controllers.RezervacijaController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Rezervacija",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelApp.Controllers.RezervacijaController",
+    "Method": "Post",
+    "RelativePath": "api/v1/Rezervacija",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rezervacija",
+        "Type": "HotelApp.Models.Rezervacija",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelApp.Controllers.SmjestajController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Smjestaj",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelApp.Controllers.SmjestajController",
+    "Method": "Post",
+    "RelativePath": "api/v1/Smjestaj",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "smjestaj",
+        "Type": "HotelApp.Models.Smjestaj",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelApp.Controllers.SmjestajController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Smjestaj/{sifra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelApp.Controllers.SmjestajController",
+    "Method": "Put",
+    "RelativePath": "api/v1/Smjestaj/sifra:int",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "smjestaj",
+        "Type": "HotelApp.Models.Smjestaj",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
