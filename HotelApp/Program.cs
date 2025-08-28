@@ -27,7 +27,11 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(opcije => {
+        opcije.ConfigObject.AdditionalItems.Add("requestSnippetsEnabled", true);
+        opcije.EnableTryItOutByDefault();
+        opcije.DocExpansion(Swashbuckle.AspNetCore.SwaggerUI.DocExpansion.None);
+    });
 }
 
 app.UseHttpsRedirection();

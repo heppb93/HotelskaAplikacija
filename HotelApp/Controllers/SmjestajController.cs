@@ -27,6 +27,34 @@ namespace HotelApp.Controllers
             }
 
         }
+
+        [HttpGet("{sifra:int}")]
+        public IActionResult Get(int sifra)
+        {
+            if (sifra <= 0)
+            {
+                return BadRequest(new { poruka = "Šifra mora biti veća od 0" });
+            }
+
+            try
+            {
+                var smjestaj = _context.Smjestaji.Find(sifra);
+
+                if (smjestaj == null)
+                {
+                    return NotFound(new { poruka = $"Smještaj sa šifrom {sifra} nije pronađen." });
+                }
+
+                return Ok(smjestaj);
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e);
+            }
+        }
+
+
+
         [HttpPost]
 
         public IActionResult Post(Smjestaj smjestaj)
@@ -34,7 +62,7 @@ namespace HotelApp.Controllers
             try
             {
                 _context.Smjestaji.Add(smjestaj);
-                _context.SaveChangesAsync();
+                _context.SaveChanges();
                 return StatusCode(StatusCodes.Status201Created, smjestaj);
             }
             catch (Exception e)
@@ -43,7 +71,7 @@ namespace HotelApp.Controllers
             }
         }
 
-        [HttpPut("sifra:int")]
+        [HttpPut("{sifra:int}")]
 
         public IActionResult Put(int sifra, Smjestaj smjestaj)
         {

@@ -26,6 +26,43 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "HotelApp.Controllers.RezervacijaController",
+    "Method": "Put",
+    "RelativePath": "api/v1/Rezervacija/{sifra}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rezervacija",
+        "Type": "HotelApp.Models.Rezervacija",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelApp.Controllers.RezervacijaController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Rezervacija/{sifra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HotelApp.Controllers.SmjestajController",
     "Method": "Get",
     "RelativePath": "api/v1/Smjestaj",
@@ -53,9 +90,9 @@
   },
   {
     "ContainingType": "HotelApp.Controllers.SmjestajController",
-    "Method": "Delete",
+    "Method": "Get",
     "RelativePath": "api/v1/Smjestaj/{sifra}",
-    "HttpMethod": "DELETE",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -70,7 +107,7 @@
   {
     "ContainingType": "HotelApp.Controllers.SmjestajController",
     "Method": "Put",
-    "RelativePath": "api/v1/Smjestaj/sifra:int",
+    "RelativePath": "api/v1/Smjestaj/{sifra}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -78,11 +115,27 @@
       {
         "Name": "sifra",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       },
       {
         "Name": "smjestaj",
         "Type": "HotelApp.Models.Smjestaj",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelApp.Controllers.SmjestajController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Smjestaj/{sifra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

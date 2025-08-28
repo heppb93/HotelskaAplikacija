@@ -1,6 +1,4 @@
-.ruka{
-    cursor: pointer;
-}
+
 body{
     color:#F7F7F7;
 }
@@ -8,4 +6,40 @@ body{
      background-color:#F7F7F7;
      color:#2d2d2d;
   
+}
+.ruka{
+  cursor: pointer;
+  font-weight: bold;
+  color: #63122c;
+}
+
+.desno{
+  text-align: right;
+}
+
+.sredina{
+  text-align: center;
+}
+
+.siroko{
+  width: 100%;
+}
+
+.akcije{
+  margin-top: 20px;
+}
+
+.loading-spinner-overlay {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brojPolaznika{
+  font-size: 5rem;
 }

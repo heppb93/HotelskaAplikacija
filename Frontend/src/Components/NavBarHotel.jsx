@@ -21,8 +21,6 @@ export default function NavBarHotel() {
             <Nav.Link onClick={()=> navigate(RouteNames.HOME)}>Početna</Nav.Link>
             <Nav.Link onClick={()=> navigate(RouteNames.REZERVACIJE)}>Rezervacije</Nav.Link>
             <Nav.Link onClick={()=> navigate(RouteNames.SMJESTAJI)}>Sobe i Apartmani</Nav.Link>
-            <Nav.Link href="#link">Prijava</Nav.Link>
-            <Nav.Link href="#link">Odjava</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
